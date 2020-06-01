@@ -5,7 +5,7 @@
 
 class LinkedList:
     def __init__(self):
-        self.nd = Nodes()
+        # self.nd = Nodes()
         self.linkerlistchain = ""
 
     def add_val(self,val):
