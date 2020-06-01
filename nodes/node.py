@@ -29,15 +29,14 @@ class Nodes:
             return None
 
 
-nodes = Nodes()
-# add nodes
-#add_node_line
-nodes.add_nodes_link(20)
-nodes.add_nodes_link(25)
-nodes.add_nodes_link(30)
-nodes.add_nodes_link(35)
-#remove nodes
-nodes.remove_nodes("25")
-#show final nodes
-print(nodes.show_nodes())
-
+# nodes = Nodes()
+# # add nodes
+# #add_node_line
+# nodes.add_nodes_link(20)
+# nodes.add_nodes_link(25)
+# nodes.add_nodes_link(30)
+# nodes.add_nodes_link(35)
+# #remove nodes
+# nodes.remove_nodes("25")
+# #show final nodes
+# print(nodes.show_nodes())
