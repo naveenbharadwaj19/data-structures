@@ -19,8 +19,8 @@ def quicksort(list, start, end):
 
 
 
-list_ = [14,33,27,35,10]
-shuffle(list_)
-quicksort(list_, 0, len(list_) - 1)
-print(list_)
+# list_ = [14,33,27,35,10]
+# shuffle(list_)
+# quicksort(list_, 0, len(list_) - 1)
+# print(list_)
 
